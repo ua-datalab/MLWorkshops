@@ -17,9 +17,9 @@ All notes are in the [Wiki Section](https://github.com/clizarraga-UAD7/MLWorksho
 * Zoom: https://arizona.zoom.us/j/86423223879
 * Qualtrics Registration: https://uarizona.co1.qualtrics.com/jfe/form/SV_5BjjU8Exp3GS2sS
  
-| Date |  Topic | Instructor | Helper
-| :--: | :-- | :--: | :--: |
-|   01/18  |  Intro to Scikit-Learn  | Carlos | Megh
+| Date |  Topic | 
+| :--: | :-- | 
+|   01/18  |  Intro to Scikit-Learn  | 
 | 01/25 |  Supervised Learning: Regression | 
 |  02/01   |  Supervised Learning:Classification |
 |    02/08 |  Unsupervised Learning: Dimensionality Reduction | 
@@ -29,7 +29,7 @@ All notes are in the [Wiki Section](https://github.com/clizarraga-UAD7/MLWorksho
 |   03/07 |   **Spring break** | 
 |    03/14 |  Reinforcement Learning  | 
 |    03/21 | Perceptrons   | 
-|    03/28 |  Convolutional Neural Networks (CNN)  | Brenda
+|    03/28 |  Convolutional Neural Networks (CNN)  | 
 |   04/04  |  Recurrent Neural Networks (RNN)  | 
 |    04/11 | Generative Adversarial Networks (GAN)   | 
 |   04/18  |  Autoencoders   | 
