@@ -2,26 +2,31 @@
 
 # UArizona Data Lab Workshops - Spring 2024
 
-## Notes for Machine Learning Workshops
-
-All notes are in the [Wiki Section](https://github.com/clizarraga-UAD7/MLWorkshops/wiki).
-
-### Intro to Classical Machine Learning
-
+## Intro to Classical Machine Learning
 
 ### Mastering Machine Learning: Your Path to Data-Driven Research
-"Introduction to Classical Machine Learning" covers essential topics in classical machine learning for data analysis and visualization in Ph.D. research. Participants will gain hands-on experience with popular machine learning libraries and algorithms, enabling them to make informed decisions and conduct advanced data-driven research.
 
-* [Repo](https://github.com/ua-datalab/MLWorkshops)
-* Thursdays at 2PM: Weaver Science and Engineering Library Rm 212
-* Zoom: https://arizona.zoom.us/j/86423223879
-* Qualtrics Registration: https://uarizona.co1.qualtrics.com/jfe/form/SV_5BjjU8Exp3GS2sS
+"Mastering Machine Learning: Your Path to Data-Driven Research” covers essential concepts in classical machine learning, offered with beginner-friendly, hands-on programming demonstration in Python. We focus on one key algorithm, statistical concept, or tool each week and offer a real-world, hands-on data science application. 
+
+Dive into the tools and concepts you need to choose, design, and deploy ML models. Brush up on the fundamentals of big data analysis, and access our fantastic resources!
+
+
+RESOURCES AND NOTES:
+
+* [REGISTER](https://uarizona.co1.qualtrics.com/jfe/form/SV_5BjjU8Exp3GS2sS) to join in person or via Zoom.
+* [Mastering Machine Learning Wiki](https://github.com/ua-datalab/MLWorkshops/wiki)
+* We meet on Thursdays at 2 PM in Weaver Science and Engineering Library, Rm 212.
+* Zoom:  [https://arizona.zoom.us/j/86423223879](https://arizona.zoom.us/j/86423223879)
+* There will be no workshop during Spring Break week.
+* Content schedule and content are subject to change. 
+
+
  
 | Date |  Topic | 
 | :--: | :-- | 
 |   01/18  |  Intro to Scikit-Learn  | 
 | 01/25 |  Supervised Learning: Regression | 
-|  02/01   |  Supervised Learning:Classification |
+|  02/01   |  Supervised Learning: Classification |
 |    02/08 |  Unsupervised Learning: Dimensionality Reduction | 
 |   02/15  |  Unsupervised Learning: Clustering  |
 |    02/22 |  Ensemble Learning: Bagging  | 
@@ -37,7 +42,7 @@ All notes are in the [Wiki Section](https://github.com/clizarraga-UAD7/MLWorksho
 
 ***
 
-Updated: 01/19/2024 (C. Lizárraga)
+Updated: 02/11/2024 (C. Lizárraga)
 
 [UArizona Data Lab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona.
 
