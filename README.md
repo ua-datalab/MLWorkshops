@@ -10,8 +10,9 @@
 
 Dive into the tools and concepts you need to choose, design, and deploy ML models. Brush up on the fundamentals of big data analysis, and access our fantastic resources!
 
+***
 
-RESOURCES AND NOTES:
+**RESOURCES AND NOTES:**
 
 * [REGISTER](https://uarizona.co1.qualtrics.com/jfe/form/SV_5BjjU8Exp3GS2sS) to join in person or via Zoom.
 * [Mastering Machine Learning Wiki](https://github.com/ua-datalab/MLWorkshops/wiki)
