@@ -25,21 +25,21 @@ Dive into the tools and concepts you need to choose, design, and deploy ML model
  
 | Date |  Topic | 
 | :--: | :-- | 
-|   01/18  |  Intro to Scikit-Learn  | 
-| 01/25 |  Supervised Learning: Regression | 
-|  02/01   |  Supervised Learning: Classification |
-|    02/08 |  Unsupervised Learning: Dimensionality Reduction | 
-|   02/15  |  Unsupervised Learning: Clustering  |
-|    02/22 |  Ensemble Learning: Bagging  | 
-|   02/29  |   Ensemble Learning: Boosting  | 
-|   03/07 |   **Spring break** | 
-|    03/14 |  Reinforcement Learning  | 
-|    03/21 | Perceptrons   | 
-|    03/28 |  Convolutional Neural Networks (CNN)  | 
-|   04/04  |  Recurrent Neural Networks (RNN)  | 
-|    04/11 | Generative Adversarial Networks (GAN)   | 
-|   04/18  |  Autoencoders   | 
-|    04/25 |   LLM | 
+|   01/18  |  Intro to Scikit-Learn  | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-Deep-Learning-Algorithms) | |
+| 01/25 |  Supervised Learning: Regression |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms)  |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Regression_Algorithms/MLRegressionAlgorithms.ipynb) |
+|  02/01   |  Supervised Learning: Classification |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Classification_Algorithms/MLClassificationAlgorithms.ipynb)|
+|    02/08 |  Unsupervised Learning: Dimensionality Reduction |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Unsupervised-ML:-Dimensionality-Reduction)  |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Dimensionality_Reduction/Dimensionality_Reduction.ipynb) |
+|   02/15  |  Unsupervised Learning: Clustering  |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Unsupervised-ML:-Clustering-Algorithms) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Clustering_Algorithms/MLClusteringAlgorithms.ipynb)|
+|    02/22 |  Ensemble Learning: Bagging  |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Ensemble-Methods:-Bagging,-Boosting,-and-Stacking.) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Ensemble_Methods/DecisionTrees_EnsembleLearning.ipynb) |
+|   02/29  |   Ensemble Learning: Boosting  | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Ensemble-Methods:-Bagging,-Boosting,-and-Stacking.)|[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Ensemble_Methods/DecisionTrees_EnsembleLearning.ipynb) |
+|   03/07 |   **Spring break** | | |
+|    03/14 |  Reinforcement Learning  | | |
+|    03/21 | Perceptrons   | | |
+|    03/28 |  Convolutional Neural Networks (CNN)  | | |
+|   04/04  |  Recurrent Neural Networks (RNN)  | | |
+|    04/11 | Generative Adversarial Networks (GAN)   | | |
+|   04/18  |  Autoencoders   | | |
+|    04/25 |   LLM | | |
 
 ***
 
