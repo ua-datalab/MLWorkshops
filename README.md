@@ -33,13 +33,13 @@ Dive into the tools and concepts you need to choose, design, and deploy ML model
 |    02/22 |  Ensemble Learning: Bagging  |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Ensemble-Methods:-Bagging,-Boosting,-and-Stacking.) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Ensemble_Methods/DecisionTrees_EnsembleLearning.ipynb) |
 |   02/29  |   Ensemble Learning: Boosting  | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Ensemble-Methods:-Bagging,-Boosting,-and-Stacking.)|[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Ensemble_Methods/DecisionTrees_EnsembleLearning.ipynb) |
 |   03/07 |   **Spring break** | | |
-|    03/14 |  Reinforcement Learning  | | |
-|    03/21 | Perceptrons   | | |
-|    03/28 |  Convolutional Neural Networks (CNN)  | | |
-|   04/04  |  Recurrent Neural Networks (RNN)  | | |
-|    04/11 | Generative Adversarial Networks (GAN)   | | |
-|   04/18  |  Autoencoders   | | |
-|    04/25 |   LLM | | |
+|    03/14 |  Reinforcement Learning  | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/ReinforcementLearning) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/ReinforcementLearning/RL_Examples.ipynb) |
+|    03/21 | Perceptrons   | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/Perceptrons_and_Neural_Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Perceptrons_and_Neural_Networks/Perceptron.ipynb)|
+|    03/28 |  Convolutional Neural Networks (CNN)  | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/Convolutional_Neural_Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Convolutional_Neural_Networks/CNN.ipynb) |
+|   04/04  |  Recurrent Neural Networks (RNN)  | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/RNN) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/RNN/pytorch_char_rnn_classification_tutorial.ipynb) |
+|    04/11 | Generative Adversarial Networks (GAN)   | [Materials]() | [Notebook]() |
+|   04/18  |  Autoencoders   | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/Autoencoders) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Autoencoders/autoencoder.ipynb) |
+|    04/25 |   LLM | [Materials]() | [Notebook]() |
 
 ***
 
