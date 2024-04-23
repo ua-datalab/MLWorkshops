@@ -39,7 +39,7 @@ Dive into the tools and concepts you need to choose, design, and deploy ML model
 |   04/04  |  Recurrent Neural Networks (RNN)  | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/RNN) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/RNN/pytorch_char_rnn_classification_tutorial.ipynb) |
 |    04/11 | Generative Adversarial Networks (GAN)   | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Generative-Adversarial-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/tree/main/GAN) |
 |   04/18  |  Autoencoders   | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/Autoencoders) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Autoencoders/autoencoder.ipynb) |
-|    04/25 |   LLM | [Materials]() | [Notebook]() |
+|    04/25 |   LLM | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Large-Language-Models) | Notebook (NA) |
 
 ***
 
