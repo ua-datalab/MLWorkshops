@@ -5,8 +5,9 @@
 ## Intro to Classical Machine Learning
 
 ### Mastering Machine Learning: Your Path to Data-Driven Research
+### Hands-on Machine Learning: A Journey Through Data Science
 
-"Mastering Machine Learning: Your Path to Data-Driven Research” covers essential concepts in classical machine learning, offered with beginner-friendly, hands-on programming demonstration in Python. We focus on one key algorithm, statistical concept, or tool each week and offer a real-world, hands-on data science application. 
+"Hands-on Machine Learning: A Journey Through Data Science” covers essential concepts in classical machine learning, offered with beginner-friendly, hands-on programming demonstration in Python. We focus on one key algorithm, statistical concept, or tool each week and offer a real-world, hands-on data science application. 
 
 Dive into the tools and concepts you need to choose, design, and deploy ML models. Brush up on the fundamentals of big data analysis, and access our fantastic resources!
 
@@ -14,25 +15,26 @@ Dive into the tools and concepts you need to choose, design, and deploy ML model
 
 **RESOURCES AND NOTES:**
 
-* [REGISTER](https://uarizona.co1.qualtrics.com/jfe/form/SV_5BjjU8Exp3GS2sS) to join in person or via Zoom.
-* [Mastering Machine Learning Wiki](https://github.com/ua-datalab/MLWorkshops/wiki)
-* We meet on Thursdays at 2 PM in Weaver Science and Engineering Library, Rm 212.
-* Zoom:  [https://arizona.zoom.us/j/86423223879](https://arizona.zoom.us/j/86423223879)
-* There will be no workshop during Spring Break week.
+* [REGISTER]() to join in person or via Zoom.
+* [Hands on Machine Learning Wiki](https://github.com/ua-datalab/MLWorkshops/wiki)
+* We meet on Tuesdays at 1 PM in Weaver Science and Engineering Library, Room 212.
+* Zoom:  [https://arizona.zoom.us/j/89667081542](https://arizona.zoom.us/j/89667081542)
+* There will be no workshop during Spring Break week: March 11.
 * Content schedule and content are subject to change. 
 
 
  
 | Date |  Topic | Overview| Coding Examples |
 | :--: | :-- |:--|:--| 
-|   01/18  |  Intro to Scikit-Learn  | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-Deep-Learning-Algorithms) |  |
-| 01/25 |  Supervised Learning: Regression |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms)  |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Regression_Algorithms/MLRegressionAlgorithms.ipynb) |
-|  02/01   |  Supervised Learning: Classification |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Classification_Algorithms/MLClassificationAlgorithms.ipynb)|
-|    02/08 |  Unsupervised Learning: Dimensionality Reduction |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Unsupervised-ML:-Dimensionality-Reduction)  |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Dimensionality_Reduction/Dimensionality_Reduction.ipynb) |
-|   02/15  |  Unsupervised Learning: Clustering  |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Unsupervised-ML:-Clustering-Algorithms) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Clustering_Algorithms/MLClusteringAlgorithms.ipynb)|
-|    02/22 |  Ensemble Learning: Bagging  |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Ensemble-Methods:-Bagging,-Boosting,-and-Stacking.) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Ensemble_Methods/DecisionTrees_EnsembleLearning.ipynb) |
-|   02/29  |   Ensemble Learning: Boosting  | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Ensemble-Methods:-Bagging,-Boosting,-and-Stacking.)|[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Ensemble_Methods/DecisionTrees_EnsembleLearning.ipynb) |
-|   03/07 |   **Spring break** | | |
+|   01/28  |  Intro to Scikit-Learn  | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-Deep-Learning-Algorithms) |  |
+| 02/11 |  Supervised Learning: Regression |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms)  |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Regression_Algorithms/MLRegressionAlgorithms.ipynb) |
+|  02/18   |  Supervised Learning: Classification |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Classification_Algorithms/MLClassificationAlgorithms.ipynb)|
+|    02/25 |  Unsupervised Learning: Dimensionality Reduction |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Unsupervised-ML:-Dimensionality-Reduction)  |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Dimensionality_Reduction/Dimensionality_Reduction.ipynb) |
+|   03/04  |  Unsupervised Learning: Clustering  |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Unsupervised-ML:-Clustering-Algorithms) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Clustering_Algorithms/MLClusteringAlgorithms.ipynb)|
+|   03/11 |   **Spring break** | | |
+|    03/18 |  Ensemble Learning: Bagging  |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Ensemble-Methods:-Bagging,-Boosting,-and-Stacking.) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Ensemble_Methods/DecisionTrees_EnsembleLearning.ipynb) |
+|   03/25  |   Ensemble Learning: Boosting  | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Ensemble-Methods:-Bagging,-Boosting,-and-Stacking.)|[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Ensemble_Methods/DecisionTrees_EnsembleLearning.ipynb) |
+<!-- 
 |    03/14 |  Reinforcement Learning  | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/ReinforcementLearning) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/ReinforcementLearning/RL_Examples.ipynb) |
 |    03/21 | Perceptrons   | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/Perceptrons_and_Neural_Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Perceptrons_and_Neural_Networks/Perceptron.ipynb)|
 |    03/28 |  Convolutional Neural Networks (CNN)  | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/Convolutional_Neural_Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Convolutional_Neural_Networks/CNN.ipynb) |
@@ -40,10 +42,11 @@ Dive into the tools and concepts you need to choose, design, and deploy ML model
 |    04/11 | Generative Adversarial Networks (GAN)   | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Generative-Adversarial-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/tree/main/GAN) |
 |   04/18  |  Autoencoders   | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/Autoencoders) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Autoencoders/autoencoder.ipynb) |
 |    04/25 |   LLM | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Large-Language-Models) | Notebook (NA) |
+-->
 
 ***
 
-Updated: 02/11/2024 (C. Lizárraga)
+Updated: 01/14/2025 (C. Lizárraga)
 
 [UArizona Data Lab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona.
 
