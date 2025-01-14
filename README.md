@@ -1,8 +1,8 @@
 <img src="https://github.com/clizarraga-UAD7/DataScienceLab/raw/main/images/UADLSquareLogo.png?raw=true" width=150>
 
-# UArizona Data Lab Workshops - Spring 2024
+# UArizona Data Lab Workshops - Spring 2025
 
-## Intro to Classical Machine Learning
+## Introduction to Classical Machine Learning
 
 ### Mastering Machine Learning: Your Path to Data-Driven Research
 ### Hands-on Machine Learning: A Journey Through Data Science
