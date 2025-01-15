@@ -4,7 +4,12 @@
 
 ## Introduction to Classical Machine Learning
 
-### Mastering Machine Learning: Your Path to Data-Driven Research
+<p><img src="https://images.unsplash.com/photo-1644325349124-d1756b79dd42?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="900">
+
+(Image by Author: [Conny Schneider](https://unsplash.com/@choys_). Unsplash.com)
+
+***
+
 ### Hands-on Machine Learning: A Journey Through Data Science
 
 "Hands-on Machine Learning: A Journey Through Data Science” covers essential concepts in classical machine learning, offered with beginner-friendly, hands-on programming demonstration in Python. We focus on one key algorithm, statistical concept, or tool each week and offer a real-world, hands-on data science application. 
