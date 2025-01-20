@@ -20,9 +20,9 @@ Dive into the tools and concepts you need to choose, design, and deploy ML model
 
 **RESOURCES AND NOTES:**
 
-* [REGISTER]() to join in person or via Zoom.
+* [REGISTER](https://uarizona.co1.qualtrics.com/jfe/form/SV_2fQp5jOx6oSEhBs) to join in person or via Zoom.
 * [Hands on Machine Learning Wiki](https://github.com/ua-datalab/MLWorkshops/wiki)
-* We meet on Tuesdays at 1 PM in Weaver Science and Engineering Library, Room 212.
+* We meet on Tuesdays @ 1 PM in Weaver Science and Engineering Library, Room 212.
 * Zoom:  [https://arizona.zoom.us/j/89667081542](https://arizona.zoom.us/j/89667081542)
 * There will be no workshop during Spring Break week: March 11.
 * Content schedule and content are subject to change. 
