@@ -21,7 +21,7 @@ Dive into the tools and concepts you need to choose, design, and deploy ML model
 **RESOURCES AND NOTES:**
 
 * [**Register**](https://uarizona.co1.qualtrics.com/jfe/form/SV_0CyWx6D43C7ZsmG) to join in person or via Zoom. 
-* **When**: Tuesdays @ 1 PM in
+* **When**: Tuesdays @ 1 PM 
 * **Where:** Weaver Science and Engineering Library, Room 212.
 * **Zoom:**  [https://arizona.zoom.us/j/89667081542](https://arizona.zoom.us/j/89667081542)
 
