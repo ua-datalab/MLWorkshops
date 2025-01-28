@@ -33,7 +33,7 @@ Content schedule and content are subject to change.
  
 | Date |  Topic | Overview| Coding Examples |
 | :--: | :-- |:--|:--| 
-|   01/28  |  Intro to Scikit-Learn  | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-Deep-Learning-Algorithms) |  |
+|   01/28  |  Intro to Scikit-Learn  | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms) |  |
 | 02/04 |  Supervised Learning: Regression |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms)  |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Regression_Algorithms/MLRegressionAlgorithms.ipynb) |
 |  02/11   |  Supervised Learning: Classification |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Classification_Algorithms/MLClassificationAlgorithms.ipynb)|
 |    02/18 |  Unsupervised Learning: Dimensionality Reduction |[Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Unsupervised-ML:-Dimensionality-Reduction)  |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Dimensionality_Reduction/Dimensionality_Reduction.ipynb) |
