@@ -55,7 +55,7 @@ Content schedule and content are subject to change.
 
 ***
 
-Updated: 01/14/2025 (C. Lizárraga)
+Updated: 01/30/2025 (C. Lizárraga)
 
 [UArizona Data Lab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona.
 
