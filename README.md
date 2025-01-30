@@ -32,7 +32,7 @@ Content schedule and content are subject to change.
 
  
 | Date |  Topic | Overview| Notes | Coding Examples |
-| :--: | :-- |:--|:--| 
+| :--: | :-- |:-- |:-- | :-- | 
 |   01/28  |  Intro to Scikit-Learn  | Scikit-Learn is a library in Python, which is a programming language. A library is like a toolbox that has many useful tools (or functions) that help you do specific tasks. In this case, Scikit-Learn helps you build and use machine learning models easily. | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms) |  |
 | 02/04 |  Supervised Learning: Regression | Regression is a specific method used in supervised learning. It helps us predict a number. For example, if we want to predict how much a house will sell for based on its size, location, and number of bedrooms, we use regression. It finds a relationship between the input features and the output number.| [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms)  |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Regression_Algorithms/MLRegressionAlgorithms.ipynb) |
 |  02/11   |  Supervised Learning: Classification | Classification is a specific task in supervised learning. It’s when we want the computer to sort things into different categories. For example, if we have pictures of animals, classification helps the computer decide if a picture is of a cat, dog, or bird. | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Classification_Algorithms/MLClassificationAlgorithms.ipynb)|
