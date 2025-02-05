@@ -55,6 +55,13 @@ Content schedule and content are subject to change.
 
 ***
 
+### General Learning Resources
+
+* [UArizona DataLab Machine Learning Wiki](https://github.com/ua-datalab/MLWorkshops/wiki)
+* [Digital Library: Collection of Machine Learning Books](https://github.com/ua-data7/LearningResources/wiki/Machine-Learning)
+
+***
+
 Updated: 02/03/2025 (C. Lizárraga)
 
 [UArizona Data Lab](https://www.datascience.arizona.edu/education/uarizona-data-lab), Data Science Institute, University of Arizona.
