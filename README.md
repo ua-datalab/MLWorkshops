@@ -58,6 +58,7 @@ Content schedule and content are subject to change.
 ### General Learning Resources
 
 * [UArizona DataLab Machine Learning Wiki](https://github.com/ua-datalab/MLWorkshops/wiki)
+* [Overview of Machine Learning Algorithms](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms)
 * [Digital Library: Collection of Machine Learning Books](https://github.com/ua-data7/LearningResources/wiki/Machine-Learning)
 
 ***
