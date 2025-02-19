@@ -31,6 +31,8 @@ Content schedule and content are subject to change.
 
 ## Spring 2024
 
+### Instructor: Carlos Lizárraga
+
 | Date |  Topic | Overview| Materials | Coding Examples | YouTube |
 | :--: | :-- |:-- |:-- | :-- |  :-- |
 |   01/28  |  Intro to Scikit-Learn  | [Scikit-Learn](https://en.wikipedia.org/wiki/Scikit-learn) is a library in Python, which is a programming language. A library is like a toolbox that has many useful tools (or functions) that help you do specific tasks. In this case, Scikit-Learn helps you build and use machine learning models easily. | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/An-Overview-of-ML-Algorithms) | (no code)  | [video](https://youtu.be/grEp03EZD7k?si=osmXVLpMnzdxZSy1)|
@@ -46,14 +48,17 @@ Content schedule and content are subject to change.
 # Previous workshops
 
 ## Spring 2023
+
+### Instructors: Megh Krishnaswamy, Brenda Huppenthal
+
 | Date | Topic | Materials | Coding Examples |  
 | :--: | :-- | :-- | :-- |
-|    03/21 | Perceptrons   | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/Perceptrons_and_Neural_Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Perceptrons_and_Neural_Networks/Perceptron.ipynb)| 
-|    03/28 |  Convolutional Neural Networks (CNN)  | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/Convolutional_Neural_Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Convolutional_Neural_Networks/CNN.ipynb) |
-|   04/04  |  Recurrent Neural Networks (RNN)  | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/RNN) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/RNN/pytorch_char_rnn_classification_tutorial.ipynb) |
-|    04/11 | Generative Adversarial Networks (GAN)   | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Generative-Adversarial-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/tree/main/GAN) |
-|   04/18  |  Autoencoders   | [Materials](https://github.com/ua-datalab/MLWorkshops/tree/main/Autoencoders) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Autoencoders/autoencoder.ipynb) |
-|    04/25 |   LLM | [Materials](https://github.com/ua-datalab/MLWorkshops/wiki/Large-Language-Models) | Notebook (NA) |
+|    03/21 | Perceptrons   | [Notes](https://github.com/ua-datalab/MLWorkshops/tree/main/Perceptrons_and_Neural_Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Perceptrons_and_Neural_Networks/Perceptron.ipynb)| 
+|    03/28 |  Convolutional Neural Networks (CNN)  | [Notes](https://github.com/ua-datalab/MLWorkshops/tree/main/Convolutional_Neural_Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Convolutional_Neural_Networks/CNN.ipynb) |
+|   04/04  |  Recurrent Neural Networks (RNN)  | [Notes](https://github.com/ua-datalab/MLWorkshops/tree/main/RNN) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/RNN/pytorch_char_rnn_classification_tutorial.ipynb) |
+|    04/11 | Generative Adversarial Networks (GAN)   | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Generative-Adversarial-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/tree/main/GAN) |
+|   04/18  |  Autoencoders   | [Notes](https://github.com/ua-datalab/MLWorkshops/tree/main/Autoencoders) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Autoencoders/autoencoder.ipynb) |
+|    04/25 |   LLM | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Large-Language-Models) | (No code) |
 
 
 ***
