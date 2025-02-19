@@ -53,12 +53,12 @@ Content schedule and content are subject to change.
 
 | Date | Topic | Materials | Coding Examples |  
 | :--: | :-- | :-- | :-- |
-|    03/21 | Perceptrons   | [Notes](https://github.com/ua-datalab/MLWorkshops/tree/main/Perceptrons_and_Neural_Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Perceptrons_and_Neural_Networks/Perceptron.ipynb)| 
-|    03/28 |  Convolutional Neural Networks (CNN)  | [Notes](https://github.com/ua-datalab/MLWorkshops/tree/main/Convolutional_Neural_Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Convolutional_Neural_Networks/CNN.ipynb) |
-|   04/04  |  Recurrent Neural Networks (RNN)  | [Notes](https://github.com/ua-datalab/MLWorkshops/tree/main/RNN) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/RNN/pytorch_char_rnn_classification_tutorial.ipynb) |
-|    04/11 | Generative Adversarial Networks (GAN)   | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Generative-Adversarial-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/tree/main/GAN) |
-|   04/18  |  Autoencoders   | [Notes](https://github.com/ua-datalab/MLWorkshops/tree/main/Autoencoders) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Autoencoders/autoencoder.ipynb) |
-|    04/25 |   LLM | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Large-Language-Models) | (No code) |
+|    03/21 | Perceptrons   | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Perceptrons-and-Neural-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Perceptrons_and_Neural_Networks/Perceptron.ipynb)| 
+|    03/28 |  Convolutional Neural Networks (CNN)  | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Convolutional-Neural-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Convolutional_Neural_Networks/CNN.ipynb) |
+|   04/04  |  Recurrent Neural Networks (RNN)  | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Recurrent-Neural-Networks) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/RNN/pytorch_char_rnn_classification_tutorial.ipynb) |
+|    04/11 | Generative Adversarial Networks (GAN)   | [Notes]([https://github.com/ua-datalab/MLWorkshops/wiki/Generative-Adversarial-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/tree/main/GAN) |
+|   04/18  |  Autoencoders   | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Autoencoders) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Autoencoders/autoencoder.ipynb) |
+|    04/25 |   Large Language Models | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Large-Language-Models) | (No code) |
 
 
 ***
