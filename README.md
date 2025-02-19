@@ -29,7 +29,7 @@ There will be no workshop during Spring Break week: March 11.
 
 Content schedule and content are subject to change. 
 
-## Spring 2024
+## Spring 2025
 
 ### Instructor: Carlos Lizárraga
 
@@ -47,18 +47,18 @@ Content schedule and content are subject to change.
 
 # Previous workshops
 
-## Spring 2023
+## Spring 2024
 
 ### Instructors: Megh Krishnaswamy, Brenda Huppenthal
 
-| Date | Topic | Materials | Coding Examples |  
-| :--: | :-- | :-- | :-- |
-|    03/21 | Perceptrons   | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Perceptrons-and-Neural-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Perceptrons_and_Neural_Networks/Perceptron.ipynb)| 
-|    03/28 |  Convolutional Neural Networks (CNN)  | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Convolutional-Neural-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Convolutional_Neural_Networks/CNN.ipynb) |
-|   04/04  |  Recurrent Neural Networks (RNN)  | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Recurrent-Neural-Networks) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/RNN/pytorch_char_rnn_classification_tutorial.ipynb) |
-|    04/11 | Generative Adversarial Networks (GAN)   | [Notes]([https://github.com/ua-datalab/MLWorkshops/wiki/Generative-Adversarial-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/tree/main/GAN) |
-|   04/18  |  Autoencoders   | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Autoencoders) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Autoencoders/autoencoder.ipynb) |
-|    04/25 |   Large Language Models | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Large-Language-Models) | (No code) |
+| Date | Topic | Instructor | Materials | Coding Examples |  YouTube |
+| :--: | :-- | :-- | :-- | :-- | :-- |
+|    03/21 | Perceptrons   | Brenda Huppenthal | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Perceptrons-and-Neural-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Perceptrons_and_Neural_Networks/Perceptron.ipynb)| [video](https://youtu.be/NGBWvbgk4lg?si=wUv4tI6TSob_fOYN) | 
+|    03/28 |  Convolutional Neural Networks (CNN)  | Brenda Huppenthal | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Convolutional-Neural-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Convolutional_Neural_Networks/CNN.ipynb) | [video](https://youtu.be/U9KUfC0Oe1Y?si=feBTLLgsudeEqbaN) | 
+|   04/04  |  Recurrent Neural Networks (RNN)  | Megh Krishnaswamy | [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Recurrent-Neural-Networks) |[Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/RNN/pytorch_char_rnn_classification_tutorial.ipynb) | [video](https://youtu.be/6NFMqWrtlqg?si=47okiyhOAGfZ1ynG) | 
+|    04/11 | Generative Adversarial Networks (GAN) |  Carlos Lizárraga  | [Notes]([https://github.com/ua-datalab/MLWorkshops/wiki/Generative-Adversarial-Networks) | [Notebook](https://github.com/ua-datalab/MLWorkshops/tree/main/GAN) | [video]() | 
+|   04/18  |  Autoencoders   | Brenda Huppenthal |  [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Autoencoders) | [Notebook](https://github.com/ua-datalab/MLWorkshops/blob/main/Autoencoders/autoencoder.ipynb) | [video](https://youtu.be/GTpAYpAIux0?si=yd147Y6rCiU5xxHs) | 
+|    04/25 |   Large Language Models | Carlos Lizárraga |  [Notes](https://github.com/ua-datalab/MLWorkshops/wiki/Large-Language-Models) | (No code) | [video](https://youtu.be/2nS4ifZGBqU?si=kBJETTifpEAaMbou) | 
 
 
 ***
